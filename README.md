@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Mobile developer from Iran</h3>
 <br>
 
-<p align="left"><img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,flutter,git,postman,sqlite,idea,github,vscode&perline=16" alt="Tech Stack" /> </p>
+<p align="left"><img src="https://skillicons.dev/icons?i=kotlin,androidstudio,dart,firebase,flutter,git,postman,sqlite,idea,github,vscode&perline=16" alt="Tech Stack" /> </p>
 
 <br>
 
