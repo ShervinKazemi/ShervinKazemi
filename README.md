@@ -8,7 +8,7 @@
 
 <br>
 
-- 🔭 I’m currently working on **Contact List App**
+- 🔭 I’m currently working on **Tourify**
 
 - 🌱 I’m currently learning **Flutter Framework**
 
