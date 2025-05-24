@@ -1,5 +1,3 @@
-![logo](https://github.com/ShervinKazemi/ShervinKazemi/blob/main/SHERViN%20KAZEMiAN.png)
-
 <h1 align="center">I'm Shervin 👋 Welcome</h1>
 <h3 align="center">A passionate Mobile developer from Iran</h3>
 <br>
