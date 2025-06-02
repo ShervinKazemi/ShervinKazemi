@@ -2,11 +2,11 @@
 <h3 align="center">A passionate Mobile developer from Iran</h3>
 <br>
 
-<p align="left"><img src="https://skillicons.dev/icons?i=kotlin,androidstudio,dart,firebase,flutter,git,postman,sqlite,idea,github,vscode&perline=16" alt="Tech Stack" /> </p>
+<p align="left"><img src="https://skillicons.dev/icons?i=kotlin,dart,flutter,python,fastapi,vscode,androidstudio,idea,firebase,sqlite,postman,git,github&perline=16" alt="Tech Stack" /> </p>
 
 <br>
 
-- 🔭 I’m currently working on **CryptoPulse**
+- 🔭 I’m currently working on **private project**
 
 - 🌱 I’m currently learning **Flutter Framework**
 
