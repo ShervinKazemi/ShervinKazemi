@@ -6,7 +6,7 @@
 
 <br>
 
-- 🔭 I’m currently working on **private project**
+- 🔭 I’m currently working on **travex**
 
 - 🌱 I’m currently learning **Flutter Framework**
 
