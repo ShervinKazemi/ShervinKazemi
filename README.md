@@ -6,13 +6,13 @@
 
 <br>
 
-- 🔭 I’m currently working on **Artora**
+- 🔭 I’m currently working on **Crypto App**
 
-- 🌱 I’m currently learning **Flutter Framework**
+- 🌱 I’m currently learning **FastApi Framework**
 
 - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/ShervinKazemi?tab=repositories)
 
-- 💬 Ask me about **Kotlin**
+- 💬 Ask me about **Kotlin and Flutter**
 
 - 📫 How to reach me [Telegram Account](https://t.me/shervin_kazemian/)
 
