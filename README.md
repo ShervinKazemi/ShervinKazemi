@@ -2,7 +2,7 @@
 <h3 align="center">A passionate FullStack developer from Iran</h3>
 <br>
 
-<p align="left"><img src="https://skillicons.dev/icons?i=dart,flutter,nodejs,nestjs,nextjs,react,vscode,androidstudio,idea,firebase,sqlite,postman,git,github&perline=16" alt="Tech Stack" /> </p>
+<p align="left"><img src="https://skillicons.dev/icons?i=dart,flutter,nodejs,nestjs,nextjs,react,vscode,androidstudio,idea,supabase,postgresql,git,github&perline=16" alt="Tech Stack" /> </p>
 
 <br>
 
